@@ -1,5 +1,8 @@
 # Havard University
 
+## Live Demo
+[http://awesomeicon.github.io/Havard/](http://awesomeicon.github.io/Havard/)
+
 ## 准备工作
 
 * Webstorm
