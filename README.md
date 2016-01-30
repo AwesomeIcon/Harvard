@@ -1,7 +1,7 @@
 # Havard University
 
 ## Live Demo
-[http://awesomeicon.github.io/Havard/](http://awesomeicon.github.io/Havard/)
+[http://awesomeicon.github.io/Harvard/](http://awesomeicon.github.io/Harvard/)
 
 ## 准备工作
 
