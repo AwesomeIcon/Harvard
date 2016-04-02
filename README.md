@@ -1,5 +1,13 @@
 # Havard University
 
+## Live Demo
+
+[http://awesomeicon.github.io/Harvard/](http://awesomeicon.github.io/Harvard/)
+
+[http://awesomeicon.github.io/Harvard/list.html](http://awesomeicon.github.io/Harvard/list.html)
+
+[http://awesomeicon.github.io/Harvard/article.html](http://awesomeicon.github.io/Harvard/article.html)
+
 ## 准备工作
 
 * Webstorm
@@ -18,5 +26,3 @@
 * 三个页面相同之处提取出来，以便代码复用
 
 * 注意代码的规范性、整洁性
-
-
