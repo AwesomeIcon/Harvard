@@ -2,11 +2,11 @@
 
 ## Live Demo
 
-[http://awesomeicon.github.io/Harvard/](http://awesomeicon.github.io/Harvard/)
+[http://imtypist.github.io/Harvard/](http://imtypist.github.io/Harvard/)
 
-[http://awesomeicon.github.io/Harvard/list.html](http://awesomeicon.github.io/Harvard/list.html)
+[http://imtypist.github.io/Harvard/list.html](http://imtypist.github.io/Harvard/list.html)
 
-[http://awesomeicon.github.io/Harvard/article.html](http://awesomeicon.github.io/Harvard/article.html)
+[http://imtypist.github.io/Harvard/article.html](http://imtypist.github.io/Harvard/article.html)
 
 ## 准备工作
 
